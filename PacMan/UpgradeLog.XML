@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PacManProject">
+</Property><Property Name="解决方案文件" Value="C:\Users\apple\Desktop\最终版\PacMan\PacManProject.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\apple\Desktop\最终版\PacMan\PacManProject.suo">
+</Property><Property Name="Date" Value="2013年7月12日">
+</Property><Property Name="Time" Value="18:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PacManProject.sln" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PacManProject.suo" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject.suo">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\PacManProject.csproj" Description="项目文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\PacManProject.csproj">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\PacManProject.csproj.user" Description="项目用户文件成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\PacManProject.csproj.user">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Bean.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Bean.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Block.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Block.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Cell.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Cell.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Game.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Game.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Game.Designer.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Game.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Help.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Help.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Help.Designer.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Help.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Monster.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Monster.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\MyPanel.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\MyPanel.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Pacman.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Pacman.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Program.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Program.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Rank.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Rank.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Rank.Designer.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Rank.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Scene.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Scene.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Wall.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Wall.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Empty.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Empty.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Welcome.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Welcome.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Welcome.Designer.cs" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Welcome.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\VTune\PacManProject.vpj" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\VTune\PacManProject.vpj">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\pacman.ico" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\pacman.ico">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Game.resx" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Game.resx">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Help.resx" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Help.resx">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Rank.resx" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Rank.resx">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\Welcome.resx" Description="文件已成功备份为 C:\Users\apple\Desktop\最终版\PacMan\Backup\PacManProject\Welcome.resx">
+</Event><Event ErrorLevel="1" Project="PacManProject" Source="PacManProject\PacManProject.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\PacManProject.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="PacManProject" Source="PacManProject\PacManProject.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PacManProject.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="PacManProject.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PacManProject" Source="PacManProject\PacManProject.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

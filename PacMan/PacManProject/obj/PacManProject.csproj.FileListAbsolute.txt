@@ -1,0 +1,16 @@
+E:\实训\PacMan\PacManProject\bin\Debug\PacManProject.exe
+E:\实训\PacMan\PacManProject\bin\Debug\PacManProject.pdb
+E:\实训\PacMan\PacManProject\obj\Debug\ResolveAssemblyReference.cache
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.Properties.Resources.resources
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.csproj.GenerateResource.Cache
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.exe
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.pdb
+E:\实训\PacMan\PacManProject\obj\Debug\Interop.WMPLib.dll
+E:\实训\PacMan\PacManProject\obj\Debug\AxInterop.WMPLib.dll
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.csproj.ResolveComReference.cache
+E:\实训\PacMan\PacManProject\bin\Debug\Interop.WMPLib.dll
+E:\实训\PacMan\PacManProject\bin\Debug\AxInterop.WMPLib.dll
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.Game.resources
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.Welcome.resources
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.Rank.resources
+E:\实训\PacMan\PacManProject\obj\Debug\PacManProject.Help.resources
